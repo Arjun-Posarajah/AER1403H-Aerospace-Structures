@@ -1,0 +1,6 @@
+Q1: Missing mathematical derivation. 
+
+Q2: Modulus of Alumina is low. Density of SiC very high. Should plot all combinations on one graph. 
+Incorrect material selection and need to comment on reasonable volume fraction and plot contours of E/rho. 
+
+Q3: Please provide units with all answers.
